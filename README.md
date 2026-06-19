@@ -9,9 +9,9 @@ A data analysis project examining the factors that influence student academic pe
 ```
 student-analysis/
 ├── data/
-│   └── student_dataset.csv     # Dataset (10,000 students, 8 columns)
+│   └── student_dataset.csv     # Dataset
 ├── notebooks/
-│   └── student_analysis.ipynb  # EDA & analysis notebook
+│   └── student_analysis.ipynb  # EDA & analysis notebook and some visualizations
 ├── dashboard/
 │   └── StudentAnalysis.pbix    # Power BI dashboard
 └── README.md
